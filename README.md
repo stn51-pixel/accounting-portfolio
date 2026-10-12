@@ -1,6 +1,11 @@
-# Accounting Portfolio
+# Who am I?
 
-Personal portfolio website for Sterling Napurano, a senior Accounting student at Rutgers Business School interested in audit and public accounting.
+Hi, I'm Sterling Napurano a senior accounting major at Rutgers Business School an aspiring audit professional.
+
+
+
+
+
 
 ## Website sections
 - Personal statement
