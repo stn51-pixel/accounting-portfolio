@@ -10,6 +10,14 @@ Hi, I'm Sterling Napurano a senior accounting major at Rutgers Business School a
 
 ## Projects
 - **Budget vs. Actual Analysis** — simulated expense variance analysis.
+<a href="projects/budget_vs_actual_analysis.xlsx">
+  View Budget vs. Actual Analysis
+</a>
+
+  
 - **Audit Transaction Review** — simulated accounts payable exception testing.
 
+<a href="projects/audit_transaction_review.xlsx">
+  View Audit Transaction Review
+</a>
 Both workbooks use fictional data and were prepared with AI assistance for learning and portfolio demonstration. 
