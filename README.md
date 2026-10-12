@@ -4,7 +4,9 @@ Hi, I'm Sterling Napurano a senior accounting major at Rutgers Business School a
 
 ## Skills and Strengths
 -**Accounting and Analytical Skills** - Financial accounting, cost accounting, financial statement analysis, and Microsoft Excel.
+
 -**Strengths** - Team leadership, conflict resolution, communication, time management, and collaboration.
+
 -**Technology** - Microsoft 365 products (Excel, Word, Powerpoint), Tableau, Data Snipper.
 
 
