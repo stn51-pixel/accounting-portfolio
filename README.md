@@ -22,4 +22,10 @@ Hi, I'm Sterling Napurano a senior accounting major at Rutgers Business School a
 </a>
 
 
-Both workbooks use fictional data and were prepared with AI assistance for learning and portfolio demonstration. 
+
+- **Forage Certification - Goldman Sachs, Risk Job Simulation** - simulated risk management role with Goldman Sachs experience.<a href="projects/Forage%20Certificate.pdf"
+     target="_blank">
+    View Certificate of Completion
+
+
+Both workbooks use fictional data prepared with AI assistance for learning and portfolio demonstration. 
